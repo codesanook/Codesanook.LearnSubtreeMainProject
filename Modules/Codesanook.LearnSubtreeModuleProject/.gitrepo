@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:codesanook/Codesanook.LearnSubtreeModuleProject.git
+	branch = main
+	commit = 14fb9f5073d6ed257aeeaf35dae3180681cddcc1
+	parent = 004bbd157f8b81e12e1e7bcfb8050c80ee4bf81e
+	method = merge
+	cmdver = 0.4.3
