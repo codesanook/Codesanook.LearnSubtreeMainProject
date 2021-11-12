@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:codesanook/Codesanook.LearnSubtreeModuleProject.git
 	branch = main
-	commit = 2b30f6274d1c70a74c7908d8efd779e89eeede20
-	parent = 1463e5220f3b23b7e32215341cc899f85b9484d6
+	commit = e019e97ce233fb856cefaf6acb90157132e5d385
+	parent = 7d5a4bd4101e0b2b2de40f52e35b9ecff4ea2562
 	method = merge
 	cmdver = 0.4.3
